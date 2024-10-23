@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactrestamplify02-dev-9144b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::891377293789:role/amplify-reactrestamplify02-dev-9144b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::891377293789:role/amplify-reactrestamplify02-dev-9144b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactrestamplify02-dev-9144b-deployment",
+      "UnauthRoleName": "amplify-reactrestamplify02-dev-9144b-unauthRole",
+      "StackName": "amplify-reactrestamplify02-dev-9144b",
+      "StackId": "arn:aws:cloudformation:us-east-1:891377293789:stack/amplify-reactrestamplify02-dev-9144b/4936d0e0-9138-11ef-b207-0affc5cb1a07",
+      "AmplifyAppId": "drvolw6mwhton",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-reactrestamplify02-dev-9144b-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "reactrestamplify02": {}
+      },
+      "function": {
+        "itemsLambda": {
+          "deploymentBucketName": "amplify-reactrestamplify02-dev-9144b-deployment",
+          "s3Key": "amplify-builds/itemsLambda-7742374e703875443974-build.zip"
+        }
+      }
+    }
+  }
+}
